@@ -1,2 +1,8 @@
 pyqt5 
 lxml
+tensorflow==2.13.0
+tf-slim
+opencv-python
+matplotlib
+protobuf
+ipykernel

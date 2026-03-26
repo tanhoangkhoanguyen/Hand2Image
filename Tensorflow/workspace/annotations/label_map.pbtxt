@@ -1,0 +1,24 @@
+item { 
+	name:'Nue'
+	id:1
+}
+item { 
+	name:'Divine_Dog'
+	id:2
+}
+item { 
+	name:'Mahoraga'
+	id:3
+}
+item { 
+	name:'Idle_Death_Gamble'
+	id:4
+}
+item { 
+	name:'Unlimited_Void'
+	id:5
+}
+item { 
+	name:'Malevolent_Shrine'
+	id:6
+}
